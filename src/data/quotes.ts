@@ -1,79 +1,79 @@
 export const MOTIVATIONAL_QUOTES = [
-  // Original quotes, dibikin lebih santai
-  "Konsisten itu nggak gampang, tapi di situlah kunci sukses lu!",
-  "Langkah kecil tiap hari jauh lebih keren daripada cuma mimpi gede tanpa aksi.",
-  "Hari ini wajib sedikit lebih baik dari kemarin, besok wajib lebih baik dari hari ini.",
-  "Kebiasaan kecil yang lu ulang terus, bakal jadi hasil yang gede banget.",
-  "Capek nggak apa-apa, yang penting jangan nyerah.",
-  "Lu jauh lebih kuat dari semua masalah yang lagi lu hadapin.",
-  "Hal-hal besar selalu mulai dari langkah kecil yang kelihatan sepele.",
+  "Nggak apa-apa kalau kamu lagi lelah. Istirahat sebentar, lalu lanjut lagi pelan-pelan.",
+  "Tiap langkah kecil yang kamu ambil hari ini sudah keren banget. Kamu patut bangga sama diri sendiri.",
+  "Kadang, hari terasa berat. Tapi percaya deh, besok selalu punya peluang baru buat coba lagi.",
+  "Kamu sudah berproses jauh, sekecil apa pun progresnya itu layak diapresiasi.",
+  "Kalau pikiran capek, jangan lupa kasih ruang untuk diri kamu sendiri agar tenang sebentar.",
+  "Kamu itu jauh lebih kuat daripada yang kamu bayangkan, pelan-pelan aja nggak masalah.",
+  "Kalau hari ini nggak sesuai harapan, kamu masih punya banyak kesempatan buat berkembang lebih baik.",
+  "Yang penting jangan lupa untuk sayang sama diri sendiri sambil terus belajar dari pengalaman.",
 
-  // Quotes tentang semangat & pantang menyerah
-  "Gagal hari ini? Santai, itu cuma bab awal, bukan ending cerita lu.",
-  "Lelah itu manusiawi, nyerah itu bukan opsi.",
-  "Jangan nunggu semangat datang, lu yang ciptain sendiri semangat lu.",
-  "Hidup lagi berat? Mantap. Artinya lu lagi naik level.",
-  "Satu langkah maju hari ini tetap lebih keren daripada niat doang yang nggak jalan-jalan.",
-  "Mimpi lu gede? Ya usahanya juga harus sepadan dong.",
-  "Mulai dari nol itu biasa. Yang penting jangan berhenti di nol.",
+  // Semangat & pantang menyerah
+  "Gagal itu bukan akhir cerita, cuma jeda sebentar buat belajar lebih bijak.",
+  "Lelah itu wajar, dan itu artinya kamu sudah berusaha sampai titik terbaik hari ini.",
+  "Nggak usah buru-buru semangat, kadang yang kamu perlu cuma bernapas dan percaya semua akan membaik.",
+  "Kalau hidup lagi berat, kamu boleh pelan. Asal nggak menutup harapan untuk tetap melangkah.",
+  "Satu langkah ke depan lebih baik, meski pelan, daripada berdiri di tempat sambil memikirkan yang belum terjadi.",
+  "Impian besar itu dimulai dari pelukan erat pada keberanian diri sendiri.",
+  "Nggak ada yang salah mulai dari nol, berarti kamu punya ruang luas untuk belajar tanpa beban.",
 
-  // Quotes tentang kekuatan mental
-  "Lu bukan gagal, lu cuma lagi cari cara yang belum berhasil aja.",
-  "Masalah lu memang berat, tapi lu lebih kuat dari itu.",
-  "Nggak perlu nunggu sempurna, yang penting terus jalan dan terus nyoba.",
-  "Jangan biarkan satu hari jelek ngancurin progres lu selama ini.",
-  "Kalah sekali dua kali wajar, yang nggak wajar itu kalau lu nyerah total.",
-  "Bangkit itu bukan pilihan, tapi keharusan kalau lu mau hidup lu naik kelas.",
+  // Kekuatan mental
+  "Kamu nggak gagal, kamu cuma lagi belajar jadi pribadi yang makin kuat dan bijak.",
+  "Semua tantangan itu nggak selamanya sulit, kadang kamu cuma perlu waktu untuk memahami.",
+  "Kesempurnaan itu nggak wajib, yang penting kamu tetap mencoba dengan ikhlas.",
+  "Hari buruk itu nggak mendefinisikan siapa kamu, yuk move on pelan-pelan.",
+  "Sesekali mengalah nggak apa-apa, yang penting tidak menyerah pada harapan besar.",
+  "Bangkit itu kadang perlahan, nggak perlu memaksakan, asal tetap berusaha.",
 
-  // Quotes tentang konsistensi & kerja keras
-  "Pelan nggak masalah, yang penting lu konsisten dan tetap jalan.",
-  "Proyek besar lahir dari niat kecil yang dikerjain terus, bukan cuma diomongin.",
-  "Upgrade diri lu tiap hari, yang penting versi hari ini lebih baik dari kemarin.",
-  "Mood boleh turun, tapi kerjaan jangan ikutan berhenti.",
-  "Progres sekecil apa pun tetap progres, jangan diremehin.",
-  "Lu nggak harus paling cepat, tapi lu wajib paling konsisten.",
+  // Konsistensi & kerja keras
+  "Jalan pelan nggak bikin apa yang kamu lakukan jadi sia-sia, justru jadi lebih bermakna.",
+  "Karya besar selalu lahir dari langkah sederhana yang dirawat tiap hari.",
+  "Tidak ada versi paling hebat, yang penting versi hari ini lebih ramah untuk kamu sendiri.",
+  "Mood boleh turun, tapi kebaikan untuk diri kamu sendiri harus tetap dijaga.",
+  "Progress kecil tetap berarti, jangan pernah meremehkan hal baik yang kamu lakukan.",
+  "Bersaing sama diri sendiri aja, pelan-pelan juga boleh.",
 
-  // Quotes tentang keberanian & action
-  "Berani gagal itu tiket wajib sebelum sukses.",
-  "Berhenti cuma berharap, saatnya gerak dan buktiin.",
-  "Tunjukin kalau lu jauh lebih besar dari rasa takut lu sendiri.",
-  "Mulai aja dari yang bisa lu lakuin sekarang, sisanya nyusul sambil jalan.",
-  "Takut gagal itu wajar, tapi jangan sampai takut bikin lu nggak gerak.",
-  "Keberanian itu bukan nggak punya rasa takut, tapi tetap maju walau lu lagi takut.",
+  // Keberanian & action
+  "Berani itu bukan berarti nggak takut, tapi tetap melangkah meski sedikit ragu.",
+  "Harapan boleh tinggi, prosesnya bisa pelan-pelan, asal tetap yakin sama langkah sendiri.",
+  "Rasa takut kadang datang untuk membuat kamu semakin bijak mengambil keputusan.",
+  "Mulai dari yang sederhana, nanti perkembangan akan datang di waktu yang tepat.",
+  "Takut gagal itu wajar, asal tidak berhenti untuk mencoba lagi.",
+  "Kekuatan terbesar adalah bisa berdamai dengan rasa takut dan tetap percaya.",
 
-  // Quotes tentang proses & perjalanan
-  "Setiap pencapaian gila selalu dimulai dari keputusan sederhana: 'gue coba dulu'.",
-  "Sukses itu jarang milik yang paling pintar, tapi sering banget milik yang paling tahan banting.",
-  "Kerja keras kadang nggak langsung kelihatan hasilnya, tapi percaya, nanti bakal kerasa.",
-  "Hasil besar lahir dari proses kecil yang lu ulang tiap hari tanpa drama.",
-  "Stop bandingin proses lu sama hasil orang lain, mainnya nggak fair.",
-  "Hal-hal besar lahir dari niat kecil yang lu jaga dan kerjain terus-terusan.",
+  // Proses & perjalanan
+  "Setiap proses itu punya waktu, jangan buru-buru.",
+  "Sukses itu kadang datang kalau kamu sudah mau belajar sabar dan tekun.",
+  "Kerja keras boleh, tapi jangan lupa memberi kelembutan untuk diri sendiri juga penting.",
+  "Hasil besar itu hadiah dari konsistensi yang hangat dan tidak berlebihan.",
+  "Proses orang lain nggak harus jadi ukuran untuk proses kamu sendiri.",
+  "Hal bagus datang kalau kamu mulai dari niat baik dan tindakan penuh pengertian.",
 
-  // Quotes tentang optimisme & harapan
-  "Optimis itu bensin buat terus jalan, bukan sekadar kata-kata manis.",
-  "Hari ini mungkin berat, tapi ini bukan garis finish lu.",
-  "Percaya sama proses, karena proses yang bener nggak akan ngkhianatin hasil.",
-  "Setiap hari itu kesempatan baru buat jadi versi lu yang lebih keren.",
-  "Jangan nyerah cuma karena lama, hal-hal berharga emang butuh waktu.",
+  // Optimisme & harapan
+  "Optimisme itu tumbuh pelan-pelan, nggak harus dipaksa.",
+  "Kalau hari ini berat, janji saja ke diri sendiri untuk coba lagi besok.",
+  "Percaya pada proses itu seperti merawat tanaman, ada saatnya tumbuh dan berbunga.",
+  "Setiap hari itu peluang baru, walau kecil tetap berarti.",
+  "Hal besar tercapai pelan-pelan, jangan bandingkan perjalanan kamu dengan orang lain.",
 
-  // Quotes tentang determinasi
-  "Jangan kebanyakan ragu, kadang lu cuma butuh satu langkah nekat yang bener.",
-  "Nggak ada yang mustahil kalau lu beneran niat dan mau berjuang habis-habisan.",
-  "Potensi lu gede banget, jangan sampai kehalang sama rasa malas dan ragu.",
-  "Setiap langkah kecil yang lu ambil, pelan-pelan ngedorong lu makin dekat ke mimpi.",
-  "Bikin hidup lu berarti dengan kerja konsisten, bukan cuma nunggu keajaiban.",
+  // Determinasi
+  "Ragu itu manusiawi, kadang satu langkah kecil membuat semua jadi lebih jelas.",
+  "Nggak apa-apa belum sampai puncak, yang penting kamu terus bergerak pelan-pelan.",
+  "Potensi kamu itu berharga, rawat baik-baik tanpa paksaan.",
+  "Langkah kecil hari ini mendekatkan mimpi tanpa kamu sadari.",
+  "Kehangatan untuk diri sendiri juga adalah bentuk konsistensi terbaik.",
 
-  // Quotes tentang mindset pemenang
-  "Sukses jarang instan, yang instan biasanya cuma bikin cepat bosan.",
-  "Target tanpa aksi itu cuma jadi angan-angan.",
-  "Investasi paling mahal dan paling ngaruh? Ya diri lu sendiri.",
-  "Jangan iri lihat hasil orang kalau lu belum lihat perjuangan mereka.",
-  "Kesuksesan itu sering tercipta, bukan ditunggu datang sendiri.",
+  // Mindset pemenang
+  "Sukses nggak mesti instan, pelan-pelan yang penting nggak berhenti.",
+  "Target boleh besar, usahanya bisa nyicil kok.",
+  "Investasi terbesar adalah memberi perhatian dan waktu untuk diri sendiri.",
+  "Hasil orang lain nggak harus jadi beban pikiran, cukup jadi inspirasi saja.",
+  "Kesuksesan itu sering hadir ketika kamu sudah ikhlas pada proses.",
 
-  // Quotes power & empowerment
-  "Lu boleh sedih, takut, dan capek. Tapi setelah itu, bangkit lagi, jangan kelamaan rebah.",
-  "Hidup lu bakal ngikut apa yang lu percayai tentang diri lu sendiri.",
-  "Mimpi besar nggak akan kejadian kalau cuma disimpan di kepala tanpa tindakan.",
-  "Semangat dan keberanian bukan berarti nggak pernah takut, tapi tetap maju walau hati deg-degan.",
-  "Lu jauh lebih kuat dan lebih berani daripada yang lu kira selama ini.",
+  // Power & empowerment
+  "Kamu boleh sedih, boleh capek, nggak harus selalu kuat. Tapi setelah itu, coba pelan-pelan bangkit lagi.",
+  "Hidup kamu nggak harus sempurna, cukup jadi berarti untuk diri kamu sendiri.",
+  "Impian besar bisa tercapai kalau pelan-pelan terus dijalani.",
+  "Semangat dan keberanian itu kadang tumbuh dari rasa takut yang diakui.",
+  "Kamu lebih kuat dari yang kamu pikirkan, cukup yakini saja pelan-pelan.",
 ];
